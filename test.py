@@ -1,1 +1,5 @@
 print("Hej på er EE20")
+name = input("vad heter du?")
+print(f"hej på dig agle")
+age = input("hur gammal är du?")
+print(f"oj så hur gammal du är, hela 69 år.")
