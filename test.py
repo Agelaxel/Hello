@@ -10,3 +10,5 @@ tal2 = 12
 
 Summa = Tal1 * tal2
 print(f"Summan blir {Summa}")
+
+#ggjyg
